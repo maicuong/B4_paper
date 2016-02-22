@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{Konoha}
+{KonohaScript: A Static Scripting Language}.
+\newblock http://konohascript.org.
+
+\bibitem{GSN}
+K.~Tim and W.~Rob.
+\newblock The goal structuring notation-a safety argument notation.
+\newblock In {\em Proc. of Dependable Systems and Networks 2004 Workshop on
+  Assurance Cases}, 2004.
+
+\end{thebibliography}
