@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2016.1.12)  22 FEB 2016 01:43
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2016.1.12)  28 FEB 2016 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -158,7 +158,12 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
 ] [5
 
 ]
-(./my_thesis.toc)
+(./my_thesis.toc
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+)
 \tf@toc=\write3
 \openout3 = `my_thesis.toc'.
 
@@ -178,74 +183,86 @@ Chapter 1.
 ]
 
 LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 113.
+(Font)              using `JT1/mc/m/n' instead on input line 122.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 113.
+(Font)              using `JY1/mc/m/n' instead on input line 122.
 
 [2]
 Chapter 2.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 116.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 116.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 125.
 [3
 
 ] [4]
 Chapter 3.
-[5
+File: ./fig/Ist_list.png Graphic file (type bmp)
+<./fig/Ist_list.png> [5
 
-] [6] [7] [8]
+] [6] [7] [8] [9] [10] [11]
 Chapter 4.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 264.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 264.
-[9
+File: ./fig/overall_circuit.png Graphic file (type bmp)
+<./fig/overall_circuit.png>
+File: ./fig/step1_2.png Graphic file (type bmp)
+ <./fig/step1_2.png>
+File: ./fig/step2_2.png Graphic file (type bmp)
+ <./fig/step2_2.png>
+File: ./fig/succ.png Graphic file (type bmp)
 
-] [10] [11]
+<./fig/succ.png> [12
+
+]
+File: ./fig/fail.png Graphic file (type bmp)
+ <./fig/fail.png>
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 371.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 371.
+ [13]
+File: ./fig/byte.png Graphic file (type bmp)
+ <./fig/byte.png> [14] [15]
+File: ./fig/rbyte.png Graphic file (type bmp)
+
+<./fig/rbyte.png> [16] [17] [18] [19]
 Chapter 5.
-[12
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 449.
+[20
 
 ]
 Chapter 6.
-[13
+File: ./fig/result.png Graphic file (type bmp)
+<./fig/result.png> [21
 
-]
+] [22]
 Chapter 7.
-[14
 
-]
+Overfull \hbox (1.14357pt too wide) in paragraph at lines 548--549
+[]\OT1/cmr/m/n/12 [5] Cheng-Hung Lin, Chih-Tsun Huang, Chang-Ping Jiang, and Sh
+ih-Chieh Chang,
+ []
+
+[23
+
+] [24]
 Chapter 8.
-(./my_thesis.bbl [15
-
-]
-
-LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
-(Font)              using `JT1/gt/m/n' instead on input line 10.
-
-
-LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
-(Font)              using `JY1/gt/m/n' instead on input line 10.
-
-) [16
+[25
 
 ] (./my_thesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 2196 strings out of 493777
- 29709 string characters out of 6154259
- 99140 words of memory out of 5000000
- 5694 multiletter control sequences out of 15000+600000
- 15812 words of font info for 61 fonts, out of 8000000 for 9000
+ 2226 strings out of 493777
+ 30087 string characters out of 6154259
+ 100140 words of memory out of 5000000
+ 5711 multiletter control sequences out of 15000+600000
+ 15941 words of font info for 62 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 26i,8n,59p,425b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,8n,59p,791b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on my_thesis.dvi (23 pages, 31260 bytes).
+Output written on my_thesis.dvi (32 pages, 55008 bytes).
